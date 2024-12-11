@@ -1,5 +1,8 @@
 # css-fundamentals-lab
-# git command used in this lab
+
+## Git Commands Used in This Lab
+
+```bash
 git add .
 git commit -m "init project"
 git push
